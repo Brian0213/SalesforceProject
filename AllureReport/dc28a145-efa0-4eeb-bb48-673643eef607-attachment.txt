@@ -1,0 +1,222 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\129.0.6668.58\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_pmProducts.py:149 *****Starting The Quote -> DocuSign Test*****
+[32mINFO    [0m root:test_pmProducts.py:151 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_pmProducts.py:155 *****Open the Website URL*****
+[32mINFO    [0m root:test_pmProducts.py:158 *****Fit the browser screen*****
+[32mINFO    [0m root:test_pmProducts.py:161 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_pmProducts.py:164 *****Fill the UserName field*****
+[32mINFO    [0m root:test_pmProducts.py:167 *****Fill the Password field*****
+[32mINFO    [0m root:test_pmProducts.py:170 *****Click the Signin Button*****
+[32mINFO    [0m root:test_pmProducts.py:175 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_pmProducts.py:188 *****Starting The Rental Test*****
+[32mINFO    [0m root:test_pmProducts.py:190 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:193 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:196 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:199 *****Click The Apply Button*****
+[32mINFO    [0m root:test_pmProducts.py:202 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:205 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:208 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:211 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:214 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:217 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:220 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:223 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:226 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:229 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:232 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:235 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:238 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:241 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:244 *****Search the Rental Product****
+[32mINFO    [0m root:test_pmProducts.py:247 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:250 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:252 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:255 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:258 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:261 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:264 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:267 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:270 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:273 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:276 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:279 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:282 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:285 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:288 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:291 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:294 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:297 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:300 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:303 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:306 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:309 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:312 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:315 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:318 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:321 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:324 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:327 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:330 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:333 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:336 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:339 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:342 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:345 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:348 *****Search the Rental Product****
+[32mINFO    [0m root:test_pmProducts.py:351 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:354 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:356 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:359 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:362 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:365 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:368 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:371 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:374 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:377 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:380 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:383 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:386 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:389 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:392 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:395 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:398 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:401 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:404 *****Lookup a Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:407 *****Search the Rental Product*****
+[32mINFO    [0m root:test_pmProducts.py:410 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:413 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:416 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:419 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_pmProducts.py:422 *****Search the Labor Product*****
+[32mINFO    [0m root:test_pmProducts.py:425 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:428 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:446 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:449 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:452 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:455 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:458 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:461 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:464 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:467 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:470 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:473 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:476 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:479 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:482 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:485 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:488 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:491 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:494 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:497 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:500 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:503 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:506 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:509 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:512 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:515 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:518 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:521 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:524 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:527 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:530 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:533 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:536 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:539 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:542 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:545 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:548 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:551 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:554 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:557 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:560 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:563 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:566 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:569 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:572 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:575 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:578 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:581 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:584 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:587 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:590 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:593 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:596 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:599 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:602 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_pmProducts.py:605 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:608 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:611 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:614 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:617 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:620 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:623 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:626 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:629 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:632 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:635 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:638 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:641 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:644 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:647 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:650 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:653 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:656 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:659 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:662 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:665 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:668 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:671 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:674 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:677 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:680 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:683 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:686 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:689 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:692 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:695 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:698 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:701 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:704 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:707 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:710 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:713 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:716 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:719 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:722 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:725 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:728 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:731 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:734 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:737 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:740 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:743 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:746 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:749 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:752 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:755 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:758 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:761 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:764 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:767 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:770 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:773 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:776 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:779 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:782 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:785 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:788 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:791 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:794 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:797 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:800 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:803 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:806 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_pmProducts.py:809 *****Lookup a Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:812 *****Search the Forklift Product*****
+[32mINFO    [0m root:test_pmProducts.py:815 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_pmProducts.py:818 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_pmProducts.py:824 *****Click the Save Button*****
+[32mINFO    [0m root:test_pmProducts.py:827 *****PM Products Test Completed*****

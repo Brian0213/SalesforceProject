@@ -1,0 +1,14 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_pmCloneQuote.py:27 *****Starting The Create PM Quote From Opportunity Test*****
+[32mINFO    [0m root:test_pmCloneQuote.py:29 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_pmCloneQuote.py:33 *****Open the Website URL*****
+[32mINFO    [0m root:test_pmCloneQuote.py:36 *****Fit the browser screen*****
+[32mINFO    [0m root:test_pmCloneQuote.py:39 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_pmCloneQuote.py:42 *****Fill the UserName field*****
+[32mINFO    [0m root:test_pmCloneQuote.py:45 *****Fill the Password field*****
+[32mINFO    [0m root:test_pmCloneQuote.py:48 *****Click the Signin Button*****
+[32mINFO    [0m root:test_pmCloneQuote.py:54 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_pmCloneQuote.py:95 *****Create PM Quote from Opportunity Test Completed*****

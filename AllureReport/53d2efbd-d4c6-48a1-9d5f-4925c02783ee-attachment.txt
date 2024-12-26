@@ -1,0 +1,13 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver.exe] found in cache
+[32mINFO    [0m root:test_pmOpportunity.py:30 *****Starting The New Opportunity Test*****
+[32mINFO    [0m root:test_pmOpportunity.py:32 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_pmOpportunity.py:36 *****Open the Website URL*****
+[32mINFO    [0m root:test_pmOpportunity.py:39 *****Fit the browser screen*****
+[32mINFO    [0m root:test_pmOpportunity.py:42 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_pmOpportunity.py:45 *****Fill the UserName field*****
+[32mINFO    [0m root:test_pmOpportunity.py:48 *****Fill the Password field*****
+[32mINFO    [0m root:test_pmOpportunity.py:51 *****Click the Signin Button*****
+[32mINFO    [0m root:test_pmOpportunity.py:120 *****PM Opportunity Test Completed*****

@@ -1,0 +1,22 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesDocuSign.py:28 *****Starting The Quote -> DocuSign Test*****
+[32mINFO    [0m root:test_salesDocuSign.py:30 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesDocuSign.py:34 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesDocuSign.py:37 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesDocuSign.py:40 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesDocuSign.py:43 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesDocuSign.py:46 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesDocuSign.py:49 *****Click the Signin Button*****
+[32mINFO    [0m root:test_salesDocuSign.py:54 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_salesDocuSign.py:55 *****Click The Quote Tab*****
+[32mINFO    [0m root:test_salesDocuSign.py:58 *****Click The Sales Quote*****
+[32mINFO    [0m root:test_salesDocuSign.py:67 *****Starting The Quote Line Editor Test*****
+[32mINFO    [0m root:test_salesDocuSign.py:123 *****Click the Generate Quote Button*****
+[32mINFO    [0m root:test_salesDocuSign.py:126 *****Switch to the New Documents Window*****
+[32mINFO    [0m root:test_salesDocuSign.py:130 *****Click the Send For Signature Button*****
+[32mINFO    [0m root:test_salesDocuSign.py:133 *****Click the Next Button*****
+[32mINFO    [0m root:test_salesDocuSign.py:136 *****Click the Next Button*****
+[32mINFO    [0m root:test_salesDocuSign.py:139 *****Click Send to Customer Button****

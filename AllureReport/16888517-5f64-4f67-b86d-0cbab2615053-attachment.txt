@@ -1,0 +1,20 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\129.0.6668.58\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesLaborTravel.py:44 *****Starting The Quote -> DocuSign Test*****
+[32mINFO    [0m root:test_salesLaborTravel.py:46 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesLaborTravel.py:50 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesLaborTravel.py:53 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesLaborTravel.py:56 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesLaborTravel.py:59 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesLaborTravel.py:62 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesLaborTravel.py:65 *****Click the Signin Button*****
+[32mINFO    [0m root:test_salesLaborTravel.py:70 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_salesLaborTravel.py:71 *****Click The Quote Tab*****
+[32mINFO    [0m root:test_salesLaborTravel.py:74 *****Click The Sales Quote*****
+[32mINFO    [0m root:test_salesLaborTravel.py:77 *****Click the Edit Lines Button*****
+[32mINFO    [0m root:test_salesLaborTravel.py:80 *****Switch to The Quote Line Editor*****
+[32mINFO    [0m root:test_salesLaborTravel.py:83 *****Starting The Quote Line Editor Test*****
+[32mINFO    [0m root:test_salesLaborTravel.py:90 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:325 *****Sales Labor & Travel Test Completed*****

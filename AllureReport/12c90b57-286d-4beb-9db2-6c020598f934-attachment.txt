@@ -1,0 +1,58 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesLaborTravel.py:44 *****Starting The Quote -> DocuSign Test*****
+[32mINFO    [0m root:test_salesLaborTravel.py:46 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesLaborTravel.py:50 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesLaborTravel.py:53 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesLaborTravel.py:56 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesLaborTravel.py:59 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesLaborTravel.py:62 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesLaborTravel.py:65 *****Click the Signin Button*****
+[32mINFO    [0m root:test_salesLaborTravel.py:70 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_salesLaborTravel.py:71 *****Click The Quote Tab*****
+[32mINFO    [0m root:test_salesLaborTravel.py:74 *****Click The Sales Quote*****
+[32mINFO    [0m root:test_salesLaborTravel.py:77 *****Click the Edit Lines Button*****
+[32mINFO    [0m root:test_salesLaborTravel.py:80 *****Switch to The Quote Line Editor*****
+[32mINFO    [0m root:test_salesLaborTravel.py:83 *****Starting The Quote Line Editor Test*****
+[32mINFO    [0m root:test_salesLaborTravel.py:85 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:88 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:91 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:94 *****Click The Apply Button*****
+[32mINFO    [0m root:test_salesLaborTravel.py:97 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesLaborTravel.py:100 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesLaborTravel.py:103 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:106 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:109 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:112 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesLaborTravel.py:115 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesLaborTravel.py:118 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:121 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:124 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesLaborTravel.py:127 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesLaborTravel.py:130 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesLaborTravel.py:133 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:136 *****Lookup a Travel Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:139 *****Search the Travel Product****
+[32mINFO    [0m root:test_salesLaborTravel.py:142 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesLaborTravel.py:145 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesLaborTravel.py:147 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:150 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:153 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:156 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesLaborTravel.py:159 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesLaborTravel.py:162 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:165 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:168 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:171 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesLaborTravel.py:174 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesLaborTravel.py:177 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:180 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:183 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:186 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesLaborTravel.py:189 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesLaborTravel.py:192 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesLaborTravel.py:195 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:198 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesLaborTravel.py:201 *****Click The Apply Button*****

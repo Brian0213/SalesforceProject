@@ -1,0 +1,31 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesCustProducts.py:38 *****Starting The Quote -> DocuSign Test*****
+[32mINFO    [0m root:test_salesCustProducts.py:40 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesCustProducts.py:44 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesCustProducts.py:47 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesCustProducts.py:50 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesCustProducts.py:53 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesCustProducts.py:56 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesCustProducts.py:59 *****Click the Signin Button*****
+[32mINFO    [0m root:test_salesCustProducts.py:64 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_salesCustProducts.py:65 *****Click The Quote Tab*****
+[32mINFO    [0m root:test_salesCustProducts.py:68 *****Click The Sales Quote*****
+[32mINFO    [0m root:test_salesCustProducts.py:71 *****Click the Edit Lines Button*****
+[32mINFO    [0m root:test_salesCustProducts.py:74 *****Switch to The Quote Line Editor*****
+[32mINFO    [0m root:test_salesCustProducts.py:77 *****Starting The Quote Line Editor Test*****
+[32mINFO    [0m root:test_salesCustProducts.py:79 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesCustProducts.py:82 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesCustProducts.py:85 *****Search the Custom Product*****
+[32mINFO    [0m root:test_salesCustProducts.py:88 *****Click The Apply Button*****
+[32mINFO    [0m root:test_salesCustProducts.py:91 *****Click the Custom Product Checkbox*****
+[32mINFO    [0m root:test_salesCustProducts.py:94 *****Click the Select Button to Add the Custom Product to the QLE*****
+[32mINFO    [0m root:test_salesCustProducts.py:97 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesCustProducts.py:100 *****Lookup a Custom Product*****
+[32mINFO    [0m root:test_salesCustProducts.py:103 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesCustProducts.py:106 *****Click the Custom Product Checkbox*****
+[32mINFO    [0m root:test_salesCustProducts.py:109 *****Click the Select Button to Add the Custom Product to the QLE*****
+[32mINFO    [0m root:test_salesCustProducts.py:112 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesCustProducts.py:115 *****Lookup a Custom Product*****

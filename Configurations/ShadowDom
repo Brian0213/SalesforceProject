@@ -1,0 +1,60 @@
+# Add_Product
+        shadow0 = self.driver.find_element(By.CSS_SELECTOR, "[id='sbPageContainer']").shadow_root
+        time.sleep(3)
+        shadow1 = shadow0.find_element(By.CSS_SELECTOR, "sb-line-editor[class='--desktop']").shadow_root
+        time.sleep(1)
+        shadow2 = shadow1.find_element(By.CSS_SELECTOR, "sb-custom-action[name='Add Products']").shadow_root
+        time.sleep(1)
+        shadow2.find_element(By.CSS_SELECTOR, "#mainButton").click()
+        time.sleep(5)
+
+#Add Group
+        shadow0 = self.driver.find_element(By.CSS_SELECTOR, "[id='sbPageContainer']").shadow_root
+        time.sleep(3)
+        shadow1 = shadow0.find_element(By.CSS_SELECTOR, "sb-line-editor[class='--desktop']").shadow_root
+        time.sleep(1)
+        shadow2 = shadow1.find_element(By.CSS_SELECTOR, "sb-custom-action[name='Add Group']").shadow_root
+        time.sleep(1)
+        shadow2.find_element(By.CSS_SELECTOR, "#mainButton").click()
+        time.sleep(5)
+
+#Quick Save
+        shadow0 = self.driver.find_element(By.CSS_SELECTOR, "[id='sbPageContainer']").shadow_root
+        time.sleep(3)
+        shadow1 = shadow0.find_element(By.CSS_SELECTOR, "sb-line-editor[class='--desktop']").shadow_root
+        time.sleep(1)
+        shadow2 = shadow1.find_element(By.CSS_SELECTOR, "sb-custom-action[name='Quick Save']").shadow_root
+        time.sleep(1)
+        shadow2.find_element(By.CSS_SELECTOR, "#mainButton").click()
+        time.sleep(5)
+
+
+#Calculate
+        shadow0 = self.driver.find_element(By.CSS_SELECTOR, "[id='sbPageContainer']").shadow_root
+        time.sleep(3)
+        shadow1 = shadow0.find_element(By.CSS_SELECTOR, "sb-line-editor[class='--desktop']").shadow_root
+        time.sleep(1)
+        shadow2 = shadow1.find_element(By.CSS_SELECTOR, "sb-custom-action[name='Calculate']").shadow_root
+        time.sleep(1)
+        shadow2.find_element(By.CSS_SELECTOR, "#mainButton").click()
+        time.sleep(5)
+
+# Cancel
+        shadow0 = self.driver.find_element(By.CSS_SELECTOR, "[id='sbPageContainer']").shadow_root
+        time.sleep(3)
+        shadow1 = shadow0.find_element(By.CSS_SELECTOR, "sb-line-editor[class='--desktop']").shadow_root
+        time.sleep(1)
+        shadow2 = shadow1.find_element(By.CSS_SELECTOR, "sb-custom-action[name='Cancel']").shadow_root
+        time.sleep(1)
+        shadow2.find_element(By.CSS_SELECTOR, "#mainButton").click()
+        time.sleep(5)
+
+# Save
+        shadow0 = self.driver.find_element(By.CSS_SELECTOR, "[id='sbPageContainer']").shadow_root
+        time.sleep(3)
+        shadow1 = shadow0.find_element(By.CSS_SELECTOR, "sb-line-editor[class='--desktop']").shadow_root
+        time.sleep(1)
+        shadow2 = shadow1.find_element(By.CSS_SELECTOR, "sb-custom-action[name='Save']").shadow_root
+        time.sleep(1)
+        shadow2.find_element(By.CSS_SELECTOR, "#mainButton").click()
+        time.sleep(5)

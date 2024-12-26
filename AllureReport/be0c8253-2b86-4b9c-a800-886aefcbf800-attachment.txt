@@ -1,0 +1,20 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\129.0.6668.89\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesCheck.py:35 *****Starting The Sales Opportunity Test*****
+[32mINFO    [0m root:test_salesCheck.py:37 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesCheck.py:41 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesCheck.py:44 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesCheck.py:47 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesCheck.py:50 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesCheck.py:53 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesCheck.py:56 *****Click the Signin Button*****
+[32mINFO    [0m root:test_salesCheck.py:61 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_salesCheck.py:74 *****Starting The Quote Line Editor Test*****
+[32mINFO    [0m root:test_salesCheck.py:76 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesCheck.py:79 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesCheck.py:82 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesCheck.py:85 *****Click The Apply Button*****
+[32mINFO    [0m root:test_salesCheck.py:88 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesCheck.py:91 *****Click the Select Button to Add the Product to the QLE*****

@@ -1,0 +1,15 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver.exe] found in cache
+[32mINFO    [0m root:test_pmDocuSign.py:26 *****Starting The Quote -> DocuSign Test*****
+[32mINFO    [0m root:test_pmDocuSign.py:28 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_pmDocuSign.py:32 *****Open the Website URL*****
+[32mINFO    [0m root:test_pmDocuSign.py:35 *****Fit the browser screen*****
+[32mINFO    [0m root:test_pmDocuSign.py:38 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_pmDocuSign.py:41 *****Fill the UserName field*****
+[32mINFO    [0m root:test_pmDocuSign.py:44 *****Fill the Password field*****
+[32mINFO    [0m root:test_pmDocuSign.py:47 *****Click the Signin Button*****
+[32mINFO    [0m root:test_pmDocuSign.py:52 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_pmDocuSign.py:60 *****Starting The Quote Line Editor Test*****
+[32mINFO    [0m root:test_pmDocuSign.py:84 *****PM DocuSign Test Completed*****

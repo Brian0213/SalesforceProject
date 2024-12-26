@@ -1,0 +1,231 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesRental.py:70 *****Starting The Quote -> DocuSign Test*****
+[32mINFO    [0m root:test_salesRental.py:72 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesRental.py:76 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesRental.py:79 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesRental.py:82 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesRental.py:85 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesRental.py:88 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesRental.py:91 *****Click the Signin Button*****
+[32mINFO    [0m root:test_salesRental.py:96 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_salesRental.py:97 *****Click The Quote Tab*****
+[32mINFO    [0m root:test_salesRental.py:100 *****Click The Sales Quote*****
+[32mINFO    [0m root:test_salesRental.py:103 *****Click the Edit Lines Button*****
+[32mINFO    [0m root:test_salesRental.py:106 *****Switch to The Quote Line Editor*****
+[32mINFO    [0m root:test_salesRental.py:109 *****Starting The Quote Line Editor Test*****
+[32mINFO    [0m root:test_salesRental.py:111 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:114 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:117 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:120 *****Click The Apply Button*****
+[32mINFO    [0m root:test_salesRental.py:123 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:126 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:129 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:132 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:135 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:138 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:141 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:144 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:147 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:150 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:153 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:156 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:159 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:162 *****Lookup a Travel Product*****
+[32mINFO    [0m root:test_salesRental.py:165 *****Search the Travel Product****
+[32mINFO    [0m root:test_salesRental.py:168 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:171 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:173 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:176 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:179 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:182 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:185 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:188 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:191 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:194 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:197 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:200 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:203 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:206 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:209 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:212 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:215 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:218 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:221 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:224 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:227 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:230 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:233 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:236 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:239 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:242 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:245 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:248 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:251 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesRental.py:254 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:257 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:260 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:263 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:266 *****Lookup a Travel Product*****
+[32mINFO    [0m root:test_salesRental.py:269 *****Search the Travel Product****
+[32mINFO    [0m root:test_salesRental.py:272 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:275 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:277 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:280 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:283 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:286 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:289 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:292 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:295 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:298 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:301 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:304 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:307 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:310 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:313 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:316 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:319 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:322 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:325 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:328 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:331 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:334 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:337 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:340 *****Lookup a Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:343 *****Search the Labor Product*****
+[32mINFO    [0m root:test_salesRental.py:346 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:349 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:352 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:355 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:358 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:361 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:364 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:367 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:370 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:373 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:376 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:379 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:382 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:385 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:388 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:391 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:394 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:397 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:400 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:403 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:406 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:409 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:412 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:415 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:418 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:421 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:424 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:427 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:430 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:433 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:436 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:439 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:442 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:445 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:448 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:451 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:454 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:457 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:460 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:463 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:466 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:469 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:472 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:475 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:478 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:481 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:484 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:487 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:490 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:493 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:496 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:499 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:502 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:505 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:508 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:511 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:514 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:517 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:520 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:523 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:526 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:529 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:532 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:535 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:538 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:541 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:544 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:547 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:550 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:553 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:556 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:559 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:562 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:565 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:568 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:571 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:574 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:577 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:580 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:583 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:586 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:589 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:592 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:595 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:598 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:601 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:604 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:607 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:610 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:613 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:616 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:619 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:622 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:625 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:628 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:631 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:634 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:637 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:640 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:643 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:646 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:649 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:652 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:655 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:658 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:661 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:664 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:667 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:670 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:673 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:676 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:679 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:682 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:685 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:688 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:691 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:694 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:697 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:700 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:703 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:706 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:709 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:712 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:715 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:718 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:721 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:724 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:727 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesRental.py:730 *****Lookup a Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:733 *****Search the Scissor Product*****
+[32mINFO    [0m root:test_salesRental.py:736 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesRental.py:739 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesRental.py:747 *****Click the Save Button*****
+[32mINFO    [0m root:test_salesRental.py:750 *****Sales Rental Test Completed*****

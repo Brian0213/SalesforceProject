@@ -1,0 +1,12 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesCheck.py:31 *****Starting The Sales Opportunity Test*****
+[32mINFO    [0m root:test_salesCheck.py:33 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesCheck.py:37 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesCheck.py:40 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesCheck.py:43 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesCheck.py:46 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesCheck.py:49 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesCheck.py:52 *****Click the Signin Button*****

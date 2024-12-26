@@ -1,0 +1,36 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesAddProducts.py:36 *****Starting The Quote -> DocuSign Test*****
+[32mINFO    [0m root:test_salesAddProducts.py:38 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesAddProducts.py:42 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesAddProducts.py:45 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesAddProducts.py:48 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesAddProducts.py:51 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesAddProducts.py:54 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesAddProducts.py:57 *****Click the Signin Button*****
+[32mINFO    [0m root:test_salesAddProducts.py:62 *****Starting The Quote Page Test*****
+[32mINFO    [0m root:test_salesAddProducts.py:63 *****Click The Quote Tab*****
+[32mINFO    [0m root:test_salesAddProducts.py:66 *****Click The Sales Quote*****
+[32mINFO    [0m root:test_salesAddProducts.py:69 *****Click the Edit Lines Button*****
+[32mINFO    [0m root:test_salesAddProducts.py:72 *****Switch to The Quote Line Editor*****
+[32mINFO    [0m root:test_salesAddProducts.py:75 *****Starting The Quote Line Editor Test*****
+[32mINFO    [0m root:test_salesAddProducts.py:77 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesAddProducts.py:80 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesAddProducts.py:83 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesAddProducts.py:86 *****Click The Apply Button*****
+[32mINFO    [0m root:test_salesAddProducts.py:89 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesAddProducts.py:92 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesAddProducts.py:95 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesAddProducts.py:98 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesAddProducts.py:101 *****Search the Sales Product*****
+[32mINFO    [0m root:test_salesAddProducts.py:104 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesAddProducts.py:107 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesAddProducts.py:110 *****Click The Add Products Button *****
+[32mINFO    [0m root:test_salesAddProducts.py:113 *****Lookup a Sales Product*****
+[32mINFO    [0m root:test_salesAddProducts.py:116 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesAddProducts.py:119 *****Click the Product Checkbox*****
+[32mINFO    [0m root:test_salesAddProducts.py:122 *****Click the Select Button to Add the Product to the QLE*****
+[32mINFO    [0m root:test_salesAddProducts.py:125 *****Click the Save Button*****
+[32mINFO    [0m root:test_salesAddProducts.py:151 *****Sales Quote Test Completed*****

@@ -1,0 +1,55 @@
+pytest testCases/test_login.py -v --html=./cleo.html # generation html
+pytest testCases/test_login.py -v --html=Report/cleo1.html --browser chrome # into a folder
+
+pytest .\testCases\test_searchproduct.py --html=ProjectHorizonAutoReport.html --browser chrome
+
+pytest testCases/test_archivePage.py -v --html=Report/report.html --browser chrome
+
+pytest -v -s testCases/test_pmopportunity.py --soft-asserts --browser chrome
+
+
+pytest -v -s testCases/test_login.py --browser chrome
+
+pytest -s -v -m "sanity" --html=Report/report.html testCases/ --browser chrome # for sanity test.
+pytest -s -v -m "regression" --html=Report/report.html testCases/ --browser chrome
+
+pytest -s -v -m "sanity or regression" --html=Report/report.html testCases/ --browser chrome
+
+pytest -s -v -m "sanity and regression" --html=Report/report.html testCases/ --browser chrome
+
+pytest -s -v -m "sanity and/or regression" --html=Report/report.html testCases/ --browser chrome # for sanity and regression test. (-m “sanity”, -m “regression”, -m “sanity and regression”, -m “sanity or regression”)
+
+
+pytest -v -s -n=2 testCases/test_login.py --browser chrome firefox
+
+pytest -v -s --alluredir="C:\Users\oluwasegun.ojeyinka\PycharmProjects\ProjectTest\allurereports\reports" .\allurereports\test_orangehrm.py
+
+pytest .\testCases\test_searchproduct.py --alluredir=AllureReport --browser chrome
+To generate the allure report, launch the command line in admin mode and run the command:
+
+allure serve C:\Users\oluwasegun.ojeyinka\PycharmProjects\ProjectHorizon\AllureReport
+allure serve C:\Users\oluwasegun.ojeyinka\PycharmProjects\ProjectHorizon\AllureReport
+
+To upgrade webdriver manager:
+1. Uninstall : pip uninstall webdriver_manager
+2. Reinstall: pip install webdriver_manager --upgrade
+3. To show version: pip show webdriver_manager
+
+To install Allure report:
+Run pip install allure-pytest
+
+HTML Reporting:
+pytest testCases --html=AutoGenReport.html
+
+Commands
+pytest testCases/test_salesOpportunity.py --html=Report/saleopppt.html  --browser chrome
+pytest -v testCases/test_salesOpportunity.py --html=Report/saleopppt.html  --browser chrome
+pytest testCases/test_salesOpportunity.py --alluredir=AllureReport  --browser chrome
+pytest -v -m "sale2e" --html=Report/DocuS.html testCases/ --browser chrome
+pytest -v testCases/test_salesOpportunity.py --browser chrome
+pytest --count=3 testCases/test_salesOpportunity.py --browser chrome
+
+To Install softest:
+pip install softest
+
+

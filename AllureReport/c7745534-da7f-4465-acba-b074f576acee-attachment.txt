@@ -1,0 +1,7 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesOpportunity.py:32 *****Starting The Sales Opportunity Test*****
+[32mINFO    [0m root:test_salesOpportunity.py:34 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesOpportunity.py:38 *****Open the Website URL*****

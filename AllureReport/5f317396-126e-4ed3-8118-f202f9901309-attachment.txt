@@ -1,0 +1,15 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\chromedriver\win64\128.0.6613.119\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_salesOpportunity.py:32 *****Starting The Sales Opportunity Test*****
+[32mINFO    [0m root:test_salesOpportunity.py:34 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_salesOpportunity.py:38 *****Open the Website URL*****
+[32mINFO    [0m root:test_salesOpportunity.py:41 *****Fit the browser screen*****
+[32mINFO    [0m root:test_salesOpportunity.py:44 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_salesOpportunity.py:47 *****Fill the UserName field*****
+[32mINFO    [0m root:test_salesOpportunity.py:50 *****Fill the Password field*****
+[32mINFO    [0m root:test_salesOpportunity.py:53 *****Click the Signin Button*****
+[32mINFO    [0m root:test_salesOpportunity.py:63 *****Click the Account Tab*****
+[32mINFO    [0m root:test_salesOpportunity.py:67 *****Click the Account Name*****
+[32mINFO    [0m root:test_salesOpportunity.py:73 *****Click the Location Name*****

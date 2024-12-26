@@ -1,0 +1,1 @@
+{"name": "test_Opportunity[3-3]", "status": "skipped", "parameters": [{"name": "__pytest_repeat_step_number", "value": "2"}], "start": 1726070161470, "stop": 1726070161470, "uuid": "5d067b2d-b8ff-4aa5-a88b-eca146e9a379", "testCaseId": "d08e0d5dbdba94461afb41669c70da53", "fullName": "test_salesOpportunity.Test_SalesOpportunity#test_Opportunity"}

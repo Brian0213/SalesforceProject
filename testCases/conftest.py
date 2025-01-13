@@ -25,7 +25,7 @@ options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
 @pytest.fixture()
 def setup(browser):
-    # global driver
+    global driver
     if browser == 'chrome':
         driver = webdriver.Chrome(options=options, service=Service(ChromeDriverManager().install()))
     elif browser == 'firefox':

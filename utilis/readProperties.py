@@ -1,7 +1,20 @@
 import configparser
+import os
 
 config = configparser.RawConfigParser()
-config.read(r"C:\Users\oluwasegun.ojeyinka\PycharmProjects\ProjectHorizon\Configurations\config.ini")
+
+# Get the absolute path to the current script (readProperties.py)
+current_script_path = os.path.abspath(__file__)
+
+# Get the directory containing readProperties.py
+current_dir = os.path.dirname(current_script_path)
+
+# Navigate up one level to project root, then to Configurations/config,ini
+config_path = os.path.join(os.path.dirname(current_dir), 'Configurations', 'config.ini')
+
+# Read the config file
+config.read(config_path)
+# config.read(r"C:\Users\oluwasegun.ojeyinka\PycharmProjects\ProjectHorizon\Configurations\config.ini")
 
 class ReadConfig:
     @staticmethod

@@ -55,5 +55,5 @@ jobs:
       - name: Upload test report artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Selenium Test Report
+          name: Salesforce Test Report
           path: Reports/report.html

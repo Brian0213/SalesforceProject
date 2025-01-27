@@ -24,7 +24,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt # Make sure you have a requirements.txt
-          pip install pytest pytest-html # Ensure pytest and pytest-html are installed
+          pip install pytest pytest-html # Ensure pytest and pytest-html are installed.
 
       - name: Install Chrome Driver
         run: |
@@ -46,7 +46,7 @@ jobs:
         run: |
           xvfb-run -a --server-args="-screen 0 1024x768x24" pytest testCases/test_login.py --html=Reports/report.html
 
-      # - name: Ensure Reports folder exists
+      # - name: Ensure the Reports folder exists
       #   run: mkdir -p Reports
 
       # - name: Move HTML report to Reports folder
@@ -55,5 +55,5 @@ jobs:
       - name: Upload test report artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Selenium Test Report
+          name: Salesforce Test Report
           path: Reports/report.html

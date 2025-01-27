@@ -1,0 +1,20 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 134.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 134.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 134.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Getting latest mozilla release info for v0.35.0
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win64.zip
+[32mINFO    [0m WDM:logger.py:11 Driver downloading response is 200
+[32mINFO    [0m WDM:logger.py:11 Get LATEST geckodriver version for 134.0 firefox
+[32mINFO    [0m WDM:logger.py:11 Driver has been saved in cache [C:\Users\oluwasegun.ojeyinka\.wdm\drivers\geckodriver\win64\v0.35.0]
+[32mINFO    [0m root:test_login.py:17 *****Starting The Login Test*****
+[32mINFO    [0m root:test_login.py:19 *****Call the Browser Configuration*****
+[32mINFO    [0m root:test_login.py:24 *****Open the Website URL*****
+[32mINFO    [0m root:test_login.py:27 *****Fit the browser screen*****
+[32mINFO    [0m root:test_login.py:30 *****Define LoginPage Driver*****
+[32mINFO    [0m root:test_login.py:33 *****Fill the UserName field*****
+[32mINFO    [0m root:test_login.py:36 *****Fill the Password field*****
+[32mINFO    [0m root:test_login.py:39 *****Click the Signin Button*****
+[32mINFO    [0m root:test_login.py:43 ****** Click on the Setup Icon ******
+[32mINFO    [0m root:test_login.py:46 ****** Click on the Logout button******
+[32mINFO    [0m root:test_login.py:58 *****Login Test Completed*****

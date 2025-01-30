@@ -30,8 +30,20 @@ jobs:
           if [ ! -f "sfdx-project.json" ]; then
             echo "No sfdx-project.json found. Initializing Salesforce DX project..."
             sfdx force:project:create --projectname temp_project
-            mv force-app temp_project/
-            mv sfdx-project.json temp_project/
+            
+            # Ensure the force-app directory exists before moving it
+            if [ -d "force-app" ]; then
+              mv force-app temp_project/
+            else
+              echo "WARNING: 'force-app' directory does not exist. Skipping move."
+            fi
+            
+            if [ -f "sfdx-project.json" ]; then
+              mv sfdx-project.json temp_project/
+            else
+              echo "WARNING: 'sfdx-project.json' file does not exist. Skipping move."
+            fi
+            
             cd temp_project
           fi
 

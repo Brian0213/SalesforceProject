@@ -23,7 +23,9 @@ jobs:
       - name: Authenticate with Salesforce
         env:
           BASE_URL: "https://onpointgroup--opguat.sandbox.lightning.force.com/lightning/"
-        run: echo "${{ secrets.SFDX_AUTH_URL }}" > sfdx_auth_url.txt
+        run: |
+          echo "${{ secrets.SFDX_AUTH_URL }}" > sfdx_auth_url.txt
+          sfdx force:auth:sfdxurl:store --sfdxurlfile sfdx_auth_url.txt --setdefaultusername
 
       - name: Ensure Salesforce DX Project Initialization
         run: |
@@ -43,9 +45,10 @@ jobs:
             else
               echo "WARNING: 'sfdx-project.json' file does not exist. Skipping move."
             fi
-            
-            cd temp_project
           fi
+
+      - name: Change to Salesforce Project Directory
+        run: cd temp_project
 
       - name: Deploy to Salesforce
         run: sfdx force:source:deploy -p force-app/main/default

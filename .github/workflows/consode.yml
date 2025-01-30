@@ -22,8 +22,8 @@ jobs:
 
       - name: Authenticate with Salesforce
         env:
-          SFDX_AUTH_URL: ${{ secrets.SFDX_AUTH_URL }}
-        run: sfdx force:auth:sfdxurl:store --sfdxurlfile $SFDX_AUTH_URL --setdefaultusername
+          BASE_URL: "https://onpointgroup--opguat.sandbox.lightning.force.com/lightning/"
+        run: echo "${{ secrets.SFDX_AUTH_URL }}" > sfdx_auth_url.txt
 
       - name: Ensure Salesforce DX Project Initialization
         run: |

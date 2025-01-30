@@ -25,6 +25,7 @@ jobs:
           BASE_URL: "https://onpointgroup--opguat.sandbox.lightning.force.com/lightning/"
         run: |
           echo "${{ secrets.SFDX_AUTH_URL }}" > sfdx_auth_url.txt
+          cat sfdx_auth_url.txt  # For debugging purposes, to verify the content
           sfdx force:auth:sfdxurl:store --sfdxurlfile sfdx_auth_url.txt --setdefaultusername
 
       - name: Ensure Salesforce DX Project Initialization

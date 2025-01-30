@@ -23,7 +23,7 @@ jobs:
       - name: Authenticate with Salesforce
         env:
           SFDX_AUTH_URL: ${{ secrets.SFDX_AUTH_URL }}
-        run: sfdx auth:sfdxurl:store --sfdxurlfile $SFDX_AUTH_URL --setdefaultusername
+        run: sfdx force:auth:sfdxurl:store --sfdxurlfile $SFDX_AUTH_URL --setdefaultusername
 
       - name: Ensure Salesforce DX Project Initialization
         run: |

@@ -1,12 +1,59 @@
-name: Selenium Allure Reports
+name: Salesforce & Selenium CI/CD
 
 on:
   push:
-    branches: [ master ]
+    branches:
+      - main
+      - master
   pull_request:
-    branches: [ master ]
+    branches:
+      - master
 
 jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Salesforce CLI
+        run: npm install sfdx-cli --global
+
+      - name: Authenticate with Salesforce
+        env:
+          BASE_URL: "https://onpointgroup--opguat.sandbox.lightning.force.com/lightning/"
+        run: |
+          echo "${{ secrets.SFDX_AUTH_URL }}" > sfdx_auth_url.txt
+          cat sfdx_auth_url.txt  # For debugging purposes, to verify the content
+          sfdx force:auth:sfdxurl:store --sfdxurlfile sfdx_auth_url.txt --setdefaultusername
+
+      - name: Ensure Salesforce DX Project Initialization
+        run: |
+          if [ ! -f "sfdx-project.json" ]; then
+            echo "No sfdx-project.json found. Initializing Salesforce DX project..."
+            sfdx force:project:create --projectname temp_project
+            
+            # Ensure the force-app directory exists before moving it
+            if [ -d "force-app" ]; then
+              mv force-app temp_project/
+            else
+              echo "WARNING: 'force-app' directory does not exist. Skipping move."
+            fi
+            
+            if [ -f "sfdx-project.json" ]; then
+              mv sfdx-project.json temp_project/
+            else
+              echo "WARNING: 'sfdx-project.json' file does not exist. Skipping move."
+            fi
+          fi
+
+      - name: Change to Salesforce Project Directory
+        run: cd temp_project
+
+      - name: Deploy to Salesforce
+        run: sfdx force:source:deploy -p force-app/main/default
+
   selenium-tests:
     runs-on: ubuntu-latest
     timeout-minutes: 15  # Adjust as needed
@@ -53,6 +100,8 @@ jobs:
           allure --version
 
       - name: Run Selenium tests with pytest (Headless mode)
+        env:
+          BASE_URL: "https://onpointgroup--opguat.sandbox.lightning.force.com/lightning/"
         run: |
           xvfb-run -a --server-args="-screen 0 1024x768x24" pytest testCases/ --alluredir=Reports
         continue-on-error: true  # Allow the pipeline to continue even if tests fail
